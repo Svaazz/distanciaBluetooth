@@ -1,2 +1,2 @@
 # distanciaBluetooth
-Medidor de distancia (Utilizando sesor ultrasónico) con transmisión mediante Bluetooth.
+Medidor de distancia (Utilizando sensor ultrasónico) con transmisión mediante Bluetooth.
